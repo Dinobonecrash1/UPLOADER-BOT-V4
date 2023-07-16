@@ -34,7 +34,7 @@
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": "mongodb+srv://botmusic343:botmusic343@cluster0.0dzp1in.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://simvi9590:simvi9590@cluster0.99kvgfv.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
